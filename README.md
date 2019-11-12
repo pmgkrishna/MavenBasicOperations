@@ -1,0 +1,2 @@
+# MavenBasicOperations
+mvn poc 
